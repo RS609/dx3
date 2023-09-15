@@ -10,4 +10,4 @@
 
 - [jinseong](/jinseong) (author: [JinseongHwang](https://github.com/JinseongHwang))
 - [juhyeong](/juhyeong) (author: [dkswnkk](https://github.com/dkswnkk))
-- [keunyeung](/keunyeung) (author: [choigy1001](https://github.com/choigy1001))
+- [keunyeong](/keunyeong) (author: [choigy1001](https://github.com/choigy1001))
